@@ -1,0 +1,6 @@
+node_modules
+.vscode
+.vs
+.idea
+vtt.*
+yarn.lock
